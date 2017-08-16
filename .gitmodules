@@ -1,0 +1,24 @@
+[submodule "Modification/PCR"]
+	path = Modification/PCR
+	url = https://github.com/CIDARLAB/MARS-PCR.git
+[submodule "Modification/Ligation"]
+	path = Modification/Ligation
+	url = https://github.com/CIDARLAB/MARS-Ligation.git
+[submodule "Modification/Transformation"]
+	path = Modification/Transformation
+	url = https://github.com/CIDARLAB/MARS-Transformation.git
+[submodule "Isolation/Cell-Lysis"]
+	path = Isolation/Cell-Lysis
+	url = https://github.com/CIDARLAB/MARS-Cellular-Lysis.git
+[submodule "Isolation/DNA-Digestion"]
+	path = Isolation/DNA-Digestion
+	url = https://github.com/CIDARLAB/MARS-DNA-Digestion.git
+[submodule "Quantification/Fluorescence"]
+	path = Quantification/Fluorescence
+	url = https://github.com/CIDARLAB/MARS-Fluorescence.git
+[submodule "Quantification/Antibiotic-Resistance"]
+	path = Quantification/Antibiotic-Resistance
+	url = https://github.com/CIDARLAB/MARS-Antibiotic-Resistance.git
+[submodule "Quantification/Culturing"]
+	path = Quantification/Culturing
+	url = https://github.com/CIDARLAB/MARS-Culturing.git
