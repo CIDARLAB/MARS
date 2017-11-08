@@ -22,3 +22,6 @@
 [submodule "Quantification/Culturing"]
 	path = Quantification/Culturing
 	url = https://github.com/CIDARLAB/MARS-Culturing.git
+[submodule "Isolation/Cellular-Isolation"]
+	path = Isolation/Cellular-Isolation
+	url = https://github.com/CIDARLAB/MARS-Cellular-Isolation.git
